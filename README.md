@@ -86,26 +86,8 @@
       <br><b>Machine Learning</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="48" height="48"/>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="48" height="48"/>
-      <br><b>NumPy</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="48" height="48"/>
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48" height="48"/>
-      <br><b>Oracle</b>
-    </td>
-    <td colspan="2"></td>
-  </tr>
 </table>
+
 
 
 
