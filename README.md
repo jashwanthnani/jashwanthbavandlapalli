@@ -132,16 +132,15 @@
 
 ### 🎨 Fun Fact
 <p align="center">
-   <img src="https://readme-jokes.vercel.app/api?theme=royalblue" alt="Jokes Card">
+   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card">
 </p>
 
 ---
 
 ### 🌟 Inspirational Quote
 <p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=royalblue" alt="Quote">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
 </p>
-
 
 ---
 
