@@ -102,11 +102,6 @@
 
 ---
 
-## 🎯 Learning Goals
-- 🌱 Currently learning: React, TypeScript, and AWS
-
----
-
 ## 🏆 Achievements & Certifications
 
 - **[Data Science Certification - NPTEL](https://nptel.ac.in/noc/courses/noc21/c44)**  
@@ -143,6 +138,11 @@
 <p align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </p>
+
+---
+
+## 🎯 Learning Goals
+- 🌱 Currently learning: React, TypeScript, and AWS
 
 ---
 
