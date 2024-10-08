@@ -92,38 +92,21 @@
       <br><b>Git</b>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/000000/numpy.png" alt="NumPy" width="48" height="48"/>
+      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="48" height="48"/>
       <br><b>NumPy</b>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/000000/pandas.png" alt="Pandas" width="48" height="48"/>
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="48" height="48"/>
       <br><b>Pandas</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/000000/matplotlib.png" alt="Matplotlib" width="48" height="48"/>
-      <br><b>Matplotlib</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/data-structure.png" alt="Data Structures" width="48" height="48"/>
-      <br><b>Data Structures</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" alt="Algorithms" width="48" height="48"/>
-      <br><b>Algorithms</b>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48" height="48"/>
       <br><b>Oracle</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/ios-filled/50/000000/multisim.png" alt="Multisim" width="48" height="48"/>
-      <br><b>Multisim</b>
-    </td>
-    <td colspan="4"></td>
+    <td colspan="2"></td>
   </tr>
 </table>
+
 
 
 
