@@ -110,24 +110,25 @@
 ## 🏆 Achievements & Certifications
 
 - **[Data Science Certification - NPTEL](https://nptel.ac.in/noc/courses/noc21/c44)**  
-  <img src="https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy" width="100"/>  
+  ![Data Science Badge](https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy)  
   *An in-depth course covering statistics, data analysis, and machine learning fundamentals.*
 
 - **[Python (Basic) - HackerRank](https://www.hackerrank.com/certificates/1a3a23fcdd8f)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>  
+  ![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
   *Demonstrated proficiency in Python fundamentals and basic programming concepts.*
 
 - **[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/99d0992f7857)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/HackerRank_logo.png" width="100"/>  
+  ![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)  
   *Certified in solving algorithmic challenges and applying logical solutions.*
 
 - **[Java (Basic) - HackerRank](https://www.hackerrank.com/certificates/7dceda0fe822)**  
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" width="100"/>  
+  ![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
   *Basic certification in Java, covering syntax, data types, and OOP fundamentals.*
 
 - **[JavaScript (Basic) - HackerRank](https://www.hackerrank.com/certificates/b38561c38083)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript-logo.png" width="100"/>  
+  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
   *Certified in fundamental JavaScript programming skills.*
+
 
 ---
 
