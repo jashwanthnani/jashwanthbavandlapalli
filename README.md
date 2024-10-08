@@ -33,8 +33,6 @@
 
 ## 🛠️ Skills & Technologies
 
-### 🛠 Skills and Technologies
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -111,25 +109,18 @@
 
 ## 🏆 Achievements & Certifications
 
-- **[Data Science Certification - NPTEL](https://nptel.ac.in/noc/courses/noc21/c44)**  
-  ![Data Science Badge](https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy)  
-  *An in-depth course covering statistics, data analysis, and machine learning fundamentals.*
+## 🏆 Certifications
 
-- **[Python (Basic) - HackerRank](https://www.hackerrank.com/certificates/1a3a23fcdd8f)**  
-  ![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-  *Demonstrated proficiency in Python fundamentals and basic programming concepts.*
+Here are some certifications that showcase my skills in programming languages and problem-solving:
 
-- **[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/99d0992f7857)**  
-  ![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)  
-  *Certified in solving algorithmic challenges and applying logical solutions.*
+| Certification       | Platform       | Badge |
+| ------------------- | -------------- | ----- |
+| **[Data Science Certification](https://nptel.ac.in/noc/courses/noc21/c44)** | NPTEL         | ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy) |
+| **[Python (Basic)](https://www.hackerrank.com/certificates/1a3a23fcdd8f)**          | HackerRank     | ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) |
+| **[Problem Solving (Basic)](https://www.hackerrank.com/certificates/99d0992f7857)** | HackerRank     | ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white) |
+| **[Java (Basic)](https://www.hackerrank.com/certificates/7dceda0fe822)**            | HackerRank     | ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **[JavaScript (Basic)](https://www.hackerrank.com/certificates/b38561c38083)**      | HackerRank     | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
 
-- **[Java (Basic) - HackerRank](https://www.hackerrank.com/certificates/7dceda0fe822)**  
-  ![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
-  *Basic certification in Java, covering syntax, data types, and OOP fundamentals.*
-
-- **[JavaScript (Basic) - HackerRank](https://www.hackerrank.com/certificates/b38561c38083)**  
-  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
-  *Certified in fundamental JavaScript programming skills.*
 
 - 
 
