@@ -31,19 +31,65 @@
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="center">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/C%20-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <!-- Add more as per your skills -->
-</p>
+### 🛠 Skills and Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/>
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" width="48" height="48"/>
+      <br><b>C/C++</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"/>
+      <br><b>HTML</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"/>
+      <br><b>CSS</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+      <br><b>JavaScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" width="48" height="48"/>
+      <br><b>ReactJS</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React Native" width="48" height="48"/>
+      <br><b>React Native</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48"/>
+      <br><b>SQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/>
+      <br><b>Django</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" width="48" height="48"/>
+      <br><b>Machine Learning</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -58,26 +104,34 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashwanthbavandlapalli&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
-</p>
-
-
+## 🎯 Learning Goals
+- 🌱 Currently learning: React, TypeScript, and AWS
 
 ---
 
-### 📝 Pinned Projects
+## 🏆 Achievements & Certifications
 
-<div align="center">
-   <a href="[https://github.com/jashwanthbavandlapalli/Freecodecamp-Projects](https://github.com/jashwanthbavandlapalli/Freecodecamp-Projects)">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jashwanthbavandlapalli&repo=Project1&theme=radical&hide_border=true">
-   </a>
-   <a href="[https://github.com/jashwanthbavandlapalli/E-Commerce-Platform](https://github.com/jashwanthbavandlapalli/E-Commerce-Platform)">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jashwanthbavandlapalli&repo=Project2&theme=radical&hide_border=true">
-   </a>
-</div>
+- **[Data Science Certification - NPTEL](https://nptel.ac.in/noc/courses/noc21/c44)**  
+  ![Data Science Badge](https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy)  
+  *An in-depth course covering statistics, data analysis, and machine learning fundamentals.*
+
+- **[Python (Basic) - HackerRank](https://www.hackerrank.com/certificates/1a3a23fcdd8f)**  
+  ![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+  *Demonstrated proficiency in Python fundamentals and basic programming concepts.*
+
+- **[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/99d0992f7857)**  
+  ![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)  
+  *Certified in solving algorithmic challenges and applying logical solutions.*
+
+- **[Java (Basic) - HackerRank](https://www.hackerrank.com/certificates/7dceda0fe822)**  
+  ![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
+  *Basic certification in Java, covering syntax, data types, and OOP fundamentals.*
+
+- **[JavaScript (Basic) - HackerRank](https://www.hackerrank.com/certificates/b38561c38083)**  
+  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+  *Certified in fundamental JavaScript programming skills.*
+
+- 
 
 ---
 
