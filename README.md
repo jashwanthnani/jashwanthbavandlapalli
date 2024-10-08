@@ -1,9 +1,9 @@
-<h1 align="center"> Yo! I'm Jashwanth 👋 </h1>
+<h1 align="center"> Yoo! I'm Jashwanth 👋 </h1>
 
 
 
 <p align="center">
-   <a href="https://github.com/jashwanthbavandlapalli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Passionate+about+Coding;Solving+100%2B+Problems+on+LeetCode;Always+Learning+New+Tech!" alt="Typing SVG" /></a>
+   <a href="https://github.com/jashwanthbavandlapalli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Passionate+about+Coding;Solved+150%2B+Problems+on+LeetCode;Always+Learning+New+Tech!" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributor">
    <img src="https://img.shields.io/badge/Hackathon%20Winner-FF4500?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner">
-   <img src="https://img.shields.io/badge/100%2B%20LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+   <img src="https://img.shields.io/badge/150%2B%20LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
    <!-- Add more achievements -->
 </p>
 
@@ -61,18 +61,19 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=jashwanthbavandlapalli&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashwanthbavandlapalli&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
 </p>
+
 
 ---
 
 ### 📝 Pinned Projects
 
 <div align="center">
-   <a href="https://github.com/jashwanthbavandlapalli/Project1">
+   <a href="https://github.com/jashwanthbavandlapalli/Freecodecamp-Projects">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jashwanthbavandlapalli&repo=Project1&theme=radical&hide_border=true">
    </a>
-   <a href="https://github.com/jashwanthbavandlapalli/Project2">
+   <a href="https://github.com/jashwanthbavandlapalli/E-Commerce-Platform">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jashwanthbavandlapalli&repo=Project2&theme=radical&hide_border=true">
    </a>
 </div>
