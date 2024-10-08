@@ -1,6 +1,6 @@
 <h1 align="center"> Yo!!! I'm Jashwanth 👋 </h1>
 
-<p align="center">Hey, I'm Jashwanth! Just an aspiring <strong>Software Developer</strong> 🚀</p>
+<p align="center">Hey, I'm Jashwanth! Just an aspiring <strong>Software Engineer</strong> 🚀</p>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jashwanthbavandlapalli&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats">
