@@ -1,7 +1,5 @@
 <h1 align="center"> Yo!!! I'm Jashwanth 👋 </h1>
-<p align="center">
-   <img src="YOUR_PROFILE_PICTURE_URL" alt="Profile Picture" width="150" height="150" style="border-radius:50%;">
-</p>
+
 <p align="center">Hey, I'm Jashwanth! Just an aspiring <strong>Software Developer</strong> 🚀</p>
 
 <p align="center">
