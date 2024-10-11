@@ -88,10 +88,6 @@
   </tr>
 </table>
 
-
-
-
-
 ---
 
 ### 🏆 Open Source Programs & Achievements
@@ -145,7 +141,7 @@
 ---
 
 ## 🎯 Learning Goals
-- 🌱 Currently learning: React, TypeScript, and AWS
+- 🌱 Currently learning: React, Matlab, and AWS
 
 ---
 
