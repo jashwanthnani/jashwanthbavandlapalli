@@ -87,7 +87,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Open Source Programs & Achievements
@@ -122,8 +121,6 @@
 - **[JavaScript (Basic) - HackerRank](https://www.hackerrank.com/certificates/b38561c38083)**  
   ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
   *Certified in fundamental JavaScript programming skills.*
-
-
 ---
 
 ### 🎨 Fun Fact
