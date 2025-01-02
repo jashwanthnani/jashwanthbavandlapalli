@@ -4,12 +4,10 @@
    <a href="https://github.com/jashwanthbavandlapalli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+about+Coding;Solved+150%2B+Problems+on+LeetCode;Always+Learning+New+Tech!" alt="Typing SVG" /></a>
 </p>
 📊 GitHub Stats
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jashwanthbavandlapalli&show_icons=true&count_private=true&theme=algolia&hide_border=true" alt="GitHub Stats">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanthbavandlapalli&theme=algolia&hide_border=true" alt="GitHub Streak">
 </p>
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthbavandlapalli&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
 </p>
