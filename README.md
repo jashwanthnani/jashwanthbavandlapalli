@@ -23,7 +23,6 @@
 </p>
 ---
 ## 🛠️ Skills & Technologies
-
 <table>
   <tr>
     <td align="center" width="96">
