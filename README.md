@@ -76,9 +76,7 @@
   </tr>
 </table>
 ---
-
 ### 🏆 Open Source Programs & Achievements
-
 <p align="center">
    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributor">
    <img src="https://img.shields.io/badge/Hackathon%20Winner-FF4500?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner">
