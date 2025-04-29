@@ -8,15 +8,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashwanthbavandlapalli&show_icons=true&count_private=true&theme=algolia&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanthbavandlapalli&theme=algolia&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthbavandlapalli&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=jashwanthbavandlapalli&theme=onedark" alt="GitHub Profile Trophy">
 </p>
 
 ---
@@ -96,7 +91,7 @@
 
 ---
 
-## 🏆 Open Source Programs & Achievements
+## 🏆 Open Source & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributor">
@@ -106,55 +101,55 @@
 
 ---
 
-## 🎖️ Achievements & Certifications
+## 🎖️ Certifications
 
 - **[Data Science Certification - NPTEL](https://nptel.ac.in/noc/courses/noc21/c44)**  
   ![Data Science Badge](https://img.shields.io/badge/-Data%20Science-blue?style=for-the-badge&logo=udemy)  
-  *In-depth course covering statistics, data analysis, and machine learning.*
+  *Course covering statistics, data analysis, and machine learning.*
 
 - **[Python (Basic) - HackerRank](https://www.hackerrank.com/certificates/1a3a23fcdd8f)**  
   ![Python Badge](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-  *Proven proficiency in Python fundamentals.*
+  *Solid fundamentals in Python.*
 
 - **[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/99d0992f7857)**  
   ![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)  
-  *Certified in algorithmic challenges.*
+  *Certified in algorithmic problem-solving.*
 
 - **[Java (Basic) - HackerRank](https://www.hackerrank.com/certificates/7dceda0fe822)**  
   ![Java Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
-  *Solid understanding of Java fundamentals.*
+  *Foundation in Java programming.*
 
 - **[JavaScript (Basic) - HackerRank](https://www.hackerrank.com/certificates/b38561c38083)**  
   ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
-  *Demonstrated basic knowledge of JavaScript.*
+  *Basic competency in JavaScript.*
   
 ---
 
-## 🎨 Fun Fact
+## 🎨 Fun Section
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Fun Jokes">
 </p>
 
 ---
 
-## 🌟 Inspirational Quote
+## 🌟 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Quote">
 </p>
 
 ---
 
-## 🎯 Learning Goals
+## 🎯 My Learning Path
 
 - 🌱 Currently learning: React, MATLAB, and AWS
 
 ---
 
-## 🔗 My Website & Portfolio
+## 🔗 Personal Website
 
-Feel free to visit my personal website for more details on my projects, resume, and blog:  
+Check out my projects, blog, and resume at:  
 [https://jashwanthnani.github.io](https://jashwanthnani.github.io)
 
 ---
