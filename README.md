@@ -8,14 +8,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jashwanthbavandlapalli&theme=onedark" alt="GitHub Profile Trophy">
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
