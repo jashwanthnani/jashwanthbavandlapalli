@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributor">
   <img src="https://img.shields.io/badge/Hackathon%20Winner-FF4500?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner">
-  <img src="https://img.shields.io/badge/150%2B%20LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+  <img src="https://img.shields.io/badge/300%2B%20LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
 </p>
 
 ---
