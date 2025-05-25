@@ -22,13 +22,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jashwanthnani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=jashwanthnani&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Connect with Me
 
@@ -43,65 +36,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
-
----
-
-## 🛠️ Skills & Technologies
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/><br>
-      <b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" width="48" height="48"/><br>
-      <b>C/C++</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/><br>
-      <b>Java</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"/><br>
-      <b>HTML</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"/><br>
-      <b>CSS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/><br>
-      <b>JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" width="48" height="48"/><br>
-      <b>ReactJS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React Native" width="48" height="48"/><br>
-      <b>React Native</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48" height="48"/><br>
-      <b>SQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/><br>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48" height="48"/><br>
-      <b>Django</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" width="48" height="48"/><br>
-      <b>Machine Learning</b>
-    </td>
-  </tr>
-</table>
 
 ---
 
